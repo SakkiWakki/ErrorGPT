@@ -12,7 +12,7 @@ openai.api_key = API_KEY
 
 def generate_response(prompt):
     messages = []
-    with open("Prompts/error") as system_content:
+    with open("Prompts/rubric") as system_content:
         messages.append({"role": "system", "content": system_content.read()})
     question = {'role': 'user', 'content': prompt}
 
