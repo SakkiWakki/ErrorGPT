@@ -1,0 +1,131 @@
+The following are the ACTFL guidances for Advanced-level, Intermediate-level, and Beginning-level English writing skills.
+Based on these definitions, I would like you to classify documents based on whether they are "advanced", "intermediate", or "beginning” levels.
+Additionally, provide your feedback and suggestions how how to improve the text. Assume that the writer of these texts are English learners.
+
+Please note that the length of the text has nothing to do with the level.
+
+###
+ACTFL Guidance
+
+Advanced:
+Advanced-level writers are able to write informal correspondence in common forms and some formal correspondence, and are characterized by their ability to write narrative, descriptive, and factual summaries of content. Writers at this level can narrate and describe events in sequence in the present, past, and future primary tense frames, using paraphrasing and detailed descriptions to communicate clearly. At this level, the writer has a good command of the most frequent constructions and common vocabulary and can therefore be understood by those unfamiliar with non-native speakers' writing.
+
+Intermediate:
+Intermediate level writers are characterized by their ability to meet the needs of practical writing, such as simple messages, letters, requests for information, and memos. In addition, they can ask and answer simple questions in writing. Writers at this level are able to create their own messages and communicate simple facts and ideas in loosely connected sentences about topics of interest to them and their interpersonal interaction needs. Writers at this level write primarily in the present tense. They also use the basic vocabulary and syntax needed to express semantic content to a degree that can be understood by those familiar with non-native speaker writing.
+
+Beginning:
+Beginning-level writers are characterized primarily by their ability to use words and phrases to write lists and memos. Writers at this level can write a limited range of fixed information found in simple forms and documents, and can reuse and express what they have practiced in order to convey very simple messages. In addition, with some degree of accuracy, the writer can represent known words and phrases in writing, duplicate alphabetic and kana characters, and copy basic characters.
+
+Here are some examples of text for each category:
+
+Advanced:
+Task: Describe the Chicago Manual of Style
+Chicago style (CMoS or CMS) is widely used for academic writing in various disciplines (e.g., humanities, social sciences, natural sciences, and physical sciences) as well as for professional writing. It is based on the Chicago Manual of Style, 17th edition. “Turabian” style refers to A Manual for Writers of Research Papers, Theses, and Dissertations. Originally compiled in 1937 by the University of Chicago’s dissertation secretary, Kate Turabian, it contains simplified guidelines for students using CMoS. Students can confidently use the Turabian manual when writing in Chicago style—and take advantage of the many resources it offers on finding, engaging, and incorporating source material—in a volume that is not as overwhelming as the Chicago Manual of Style, which contains almost 1,200 pages.
+
+Task: Describe an introduction to a perfect difficulty system in rhythm games
+We are assuming that we already have a perfect system to determine the values of axiom variables such as limit and tech. (This is very hard to define). We are also assuming that only 10 keycounts exist and that the difficulty system in which we define the axioms is a child set of a parent set that comprises all difficulty systems.
+
+Intermediate:
+Task: Introduce yourself
+My name is Jing. I am a MIT student. I have studied math for one year. I come from Fuzhou, China. I know that you are a nice person. It is very nice to meet you.
+
+Task: Discuss a presentation
+In this theme, we can introduce a lot of things. So, I think this is a good idea. I'll introdece dormitory, how do you dance, your favorite games. To introdece about these theme, please tell me more about these. Do you think we need more text? I think in slide, it is good to post photos about each topic.
+
+Beginning:
+Task: Someone is having a problem with their ASIO device. Diagnose it.
+its worried ...
+so... yo have installed asio driver?
+not a software
+yo have to install driver
+its different
+Maybe
+tried restart pc?
+sometimes its reqire reboot compter
+'caase driver will start when yo boot yor pc
+
+Task: Introduce yourself
+I’m Jing, from Cina. I student MIT. I like math. Fun math. Compuer gme fun.
+
+Prompt 1 (Advanced):
+It took just a few seconds for Simone Biles to vault over her two-year absence from international gymnastics competition and make history.
+
+Fans erupted as the 19-time world champion leapt back onto the world stage, becoming the first woman to land a highly complicated vault internationally at the 2023 World Artistic Gymnastic Championships in Antwerp, Belgium, on Sunday.
+
+Response: Advanced
+The text gives a detailed description of Simone Biles’ recent performance and uses specific terminology related to gymnastics. The writer demonstrates the ability to convey information using clear narrative and description.
+
+Prompt 2 (Intermediate):
+Manatees in Florida are in trouble. In 2021, over 1,100 manatees died. This is two times as many as usual. So far this year, over 400 more manatees have died. This could mean that more manatees will die in 2022 than last year.
+
+Response: Intermediate
+The text gives a basic factual summary about the number of manatee deaths. The writer conveys information in loosely connected sentences primarily in the present tense.
+
+Prompt 3 (Intermediate):
+The tricks on this day are usually playful, not harmful. The best tricks make everyone laugh. Someone may show you a fake lottery ticket worth a lot. If you believe it, you will be an April Fool.
+
+Response: Intermediate
+The description about April Fool’s tricks is conveyed in simple sentences. The writer communicates ideas in a manner that would be understood by those familiar with non-native speaker writing.
+
+Prompt 4 (Intermediate):
+My name is Pascal. I am a member of the accounting department. I work here since 6 years. I am in charge of audit of your company. Nice to meet you. This e-mail is the first contact of us. I want to know each other. Please let me know when you can attend a meeting. How about 12 Feb or 14 Feb? And Where do you hope to take place? Please asertain the agenda of meeting. Regard. Pascal
+
+Response: Intermediate
+The e-mail communicates practical information and has some minor grammatical errors, such as "I work here since 6 years". The writer is able to convey their message and request a meeting, demonstrating the ability to meet the needs of practical writing.
+
+Prompt 5 (Beginning):
+School Supplies
+Pleez by 4 me–
+candy
+bananas
+minerals watres
+printer paper
+sop
+toothpaste
+baterys
+
+Response: Beginning
+The list of items required for school supplies is presented in a very basic form with spelling mistakes like "Pleez", "watres", and "sop".
+
+Prompt 6 (Advanced):
+Yesterday, Tuesday, November 15th, 2005, the fans of the Spanish singer Alejandro Sanz, were able to see and hear his idol in person at the Radio City Music Hall in New York City. The tickets were sold out a month ago, and the performance of Alejandro Sanz was superior. As usual, Alejandro sang his most popular songs such as “El Alma al Aire” (“The Soul in the Air”), “Mi Soledad y Yo” (“My Lonelyness and I”), “Heroe” (“Heroe”), and more.
+
+The concert started on time at 8pm and finished at 11pm. Three excellent hours of an outstanding performance, Sanz, gave to his fans from all over the world. The adrenaline of the fans was high with the romantic voice of the singer. Also, there were some lucky ones who were able to hold hands with their idol, and show their affection by giving to their favorite singer some gifts, such as flowers, teddy bears, chocolate boxes, etc.
+
+Furthermore, the price of the tickets were from $85.00 to $300.00, and all the tickets were sold out a month ago. There is not doubt the Alejandro Sanz has won his fans’ heart. Personally, I believe that Alejandro Sanz is an excellent singer and his sense of humor, his personality, his passion for believing in the true love, makes him a unique singer.
+
+Response: Advanced
+This text provides a comprehensive narrative of a concert, detailing the ambiance, song list, timings, and audience interaction. The writer successfully uses narrative and descriptive techniques to provide a clear picture of the event.
+
+Prompt 7 (Intermediate):
+Hi I met him while playing a rhythm game called by DJMAX RESPECT V and I am Korean.
+I asked for an invitation because we seemed to want to learn each other language
+
+Response: Intermediate
+The writer briefly describes how they met someone through a rhythm game and their mutual interest in learning each other's language. The message is clear, but the sentence structure and phrasing are simplistic.
+
+Prompt 8 (Beginning):
+Mr. Parson an 2 students.wen after school to get bus, O no, they mizt the bus Mr. Parson yell to the bus driver and Oto yell too. But he no here the yell.
+
+She cri because she miss the bus.
+
+Response: Beginning
+The writing demonstrates limited command of language and grammar with errors such as "Mr. Parson an 2 students" and "She cri because she miss the bus". The narrative is simple and demonstrates a beginning level of proficiency.
+
+Prompt 9 (Lower Advanced):
+My old city and my new country are worlds apart. There are things that are the same and some other things that are really different. First, I will talk about all the things that are the same and then I’ll talk about the things that are different between these two places.
+  First, there are many things that are similar between these two places. One of the things that is the same is that we both have people that are black and white. But my new country also has more people from different countries as well. In my old city we had a lot of parks. There were fields where kids could play soccer and hang out. Here there are a lot of parks too although some of these ones have newer playground areas. Both places also have schools. The buildings look similar from the outside but the inside and how the school is organized and taught is completely different.
+
+Response: Advanced
+This text offers a comparison between two places, indicating a deeper level of thought. It has narrative details and structure, even if some areas could be better organized or refined.
+
+Prompt 10 (Beginning):
+fish is swiming in the water.
+the fish No Problem
+
+the catis grea to eat the fish
+
+The cat is aet the fish
+
+Response: Beginning
+Response: The text is very simplistic with numerous grammatical errors like "the catis grea" and "The cat is aet the fish". The narrative is very basic and falls into the beginning category.
