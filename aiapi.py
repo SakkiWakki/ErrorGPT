@@ -10,11 +10,10 @@ API_KEY = os.environ.get("OPENAI_API_KEY")
 openai.api_key = API_KEY
 
 
-def generate_response(prompt):
-    messages = []
-    with open("Prompts/rubric") as system_content:
-        messages.append({"role": "system", "content": system_content.read()})
-    question = {'role': 'user', 'content': prompt}
+def generate_response(prompt, user_input):
+    messages = [{"role": "system", "content": prompt}]
+
+    question = {'role': 'user', 'content': user_input}
 
     messages.append(question)
 
